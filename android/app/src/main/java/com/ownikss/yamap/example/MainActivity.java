@@ -1,4 +1,4 @@
-package com.maps;
+package com.ownikss.yamap.example;
 
 import com.facebook.react.ReactActivity;
 

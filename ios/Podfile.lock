@@ -296,7 +296,7 @@ PODS:
     - React-Core (= 0.63.2)
     - React-cxxreact (= 0.63.2)
     - React-jsi (= 0.63.2)
-  - RNYamap (1.0.18):
+  - RNYamap (1.0.19):
     - React
     - YandexMapKit
     - YandexMapKitDirections
@@ -476,7 +476,7 @@ SPEC CHECKSUMS:
   React-RCTText: 1b6773e776e4b33f90468c20fe3b16ca3e224bb8
   React-RCTVibration: 4d2e726957f4087449739b595f107c0d4b6c2d2d
   ReactCommon: a0a1edbebcac5e91338371b72ffc66aa822792ce
-  RNYamap: 7491927cfa9706fa25b4d5974d338771d8406fcb
+  RNYamap: 3945851df273f4f67707e1a694678eb38fa606c1
   YandexMapKit: ecd4b78de34a35df63d066ac299e6fd0fe46d1ba
   YandexMapKitDirections: 4298725d34df043ec127dd6e76f457e24f378188
   YandexMapKitTransport: 52f64fdc16bc83f8849b47e4143a698b6be24c49

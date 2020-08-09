@@ -1,4 +1,4 @@
-package com.maps;
+package com.ownikss.yamap.example;
 
 import android.app.Application;
 import android.content.Context;
