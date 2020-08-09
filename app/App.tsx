@@ -6,20 +6,20 @@ import {
   Text,
   TouchableOpacity,
   View,
+  StyleSheet,
 } from 'react-native';
-import {YaMap} from 'react-native-yamap';
-import {MAP_KEY, GEOCODER_KEY} from '../api_keys';
-import {StyleSheet} from 'react-native';
 import {
+  YaMap,
   Animation,
   CameraPosition,
   Circle,
   Marker,
   Point,
   Polygon,
+  Geocoder,
 } from 'react-native-yamap';
+import {MAP_KEY, GEOCODER_KEY} from '../api_keys';
 import {CLEAR, LOCATION, MINUS, NIGHT, PLUS, SUN, USER} from './images';
-import {Geocoder} from 'react-native-yamap/build';
 
 const styles = StyleSheet.create({
   container: {
@@ -113,6 +113,7 @@ export default class App extends React.Component<{}, State> {
       this.map.current.setZoom(position.zoom * 1.1, 0.1);
     }
   };
+
   zoomDown = async () => {
     const position = await this.getCurrentPosition();
     if (this.map.current) {

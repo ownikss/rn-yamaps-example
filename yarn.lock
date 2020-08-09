@@ -5555,10 +5555,9 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-native-yamap@1.0.19:
+"react-native-yamap@https://github.com/ownikss/react-native-yamap#1e3e01fa4b280d6323e2bd4c48f5d535474d9081":
   version "1.0.19"
-  resolved "https://registry.yarnpkg.com/react-native-yamap/-/react-native-yamap-1.0.19.tgz#cfae8348a8408dc572032df5a36d4ef3177fd13c"
-  integrity sha512-W2QITbSwbP7lPqx45kr5rISoAa822F8rFR/ektwVeuSVAkdgKnt13T3X9bRhvQOy89BnxtxMz8e7D9awOspvsw==
+  resolved "https://github.com/ownikss/react-native-yamap#1e3e01fa4b280d6323e2bd4c48f5d535474d9081"
 
 react-native@0.63.2:
   version "0.63.2"
