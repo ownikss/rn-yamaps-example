@@ -1,5 +1,7 @@
 # Пример использования react-native-yamap
 
+<img src="./demo/demo.gif" width=300/> 
+
 - Установите зависимости
 
 ```sh
